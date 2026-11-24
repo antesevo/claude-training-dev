@@ -42,6 +42,7 @@ try
 
         if (string.IsNullOrWhiteSpace(prompt))
         {
+            //testing changes
             continue;
         }
 
